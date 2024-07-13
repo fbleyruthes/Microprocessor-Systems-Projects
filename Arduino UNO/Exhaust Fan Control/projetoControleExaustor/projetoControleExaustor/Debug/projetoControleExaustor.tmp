@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 3\projetoControleExaustor\projetoControleExaustor\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 3\projetoControleExaustor\projetoControleExaustor\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 3\projetoControleExaustor\projetoControleExaustor\lib.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 3\projetoControleExaustor\projetoControleExaustor\Debug\projetoControleExaustor.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>projetoControleExaustor.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>projetoControleExaustor.map</FILE>
+  <FILE>projetoControleExaustor.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <config><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 3\projetoControleExaustor\projetoControleExaustor\main.asm</FILE><LINE>12</LINE></config>
+  <config_serial><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 3\projetoControleExaustor\projetoControleExaustor\lib.inc</FILE><LINE>17</LINE></config_serial>
+  <config_ADC><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 3\projetoControleExaustor\projetoControleExaustor\lib.inc</FILE><LINE>28</LINE></config_ADC>
+  <ativar_ADC><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 3\projetoControleExaustor\projetoControleExaustor\lib.inc</FILE><LINE>33</LINE></ativar_ADC>
+  <tx_R17><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 3\projetoControleExaustor\projetoControleExaustor\lib.inc</FILE><LINE>38</LINE></tx_R17>
+  <tx_R17_volta><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 3\projetoControleExaustor\projetoControleExaustor\lib.inc</FILE><LINE>40</LINE></tx_R17_volta>
+  <desligado><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 3\projetoControleExaustor\projetoControleExaustor\main.asm</FILE><LINE>23</LINE></desligado>
+  <esperaLigar><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 3\projetoControleExaustor\projetoControleExaustor\main.asm</FILE><LINE>26</LINE></esperaLigar>
+  <monitorando><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 3\projetoControleExaustor\projetoControleExaustor\main.asm</FILE><LINE>35</LINE></monitorando>
+  <cicloMonitoramento><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 3\projetoControleExaustor\projetoControleExaustor\main.asm</FILE><LINE>38</LINE></cicloMonitoramento>
+  <monitoraTemp><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 3\projetoControleExaustor\projetoControleExaustor\main.asm</FILE><LINE>45</LINE></monitoraTemp>
+  <exaustorAtivado><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 3\projetoControleExaustor\projetoControleExaustor\main.asm</FILE><LINE>56</LINE></exaustorAtivado>
+  <cicloInputExaustor><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 3\projetoControleExaustor\projetoControleExaustor\main.asm</FILE><LINE>58</LINE></cicloInputExaustor>
+  <cicloExaustorAtivado><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 3\projetoControleExaustor\projetoControleExaustor\main.asm</FILE><LINE>65</LINE></cicloExaustorAtivado>
+ </LABELS>
+</ASSEMBLER_INFO>

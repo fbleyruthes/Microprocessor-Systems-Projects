@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Experimento 1\complete\expOneComp\expOneComp\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Experimento 1\complete\expOneComp\expOneComp\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Experimento 1\complete\expOneComp\expOneComp\Debug\expOneComp.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>expOneComp.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>expOneComp.map</FILE>
+  <FILE>expOneComp.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <loop><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Experimento 1\complete\expOneComp\expOneComp\main.asm</FILE><LINE>14</LINE></loop>
+  <path_S1_1><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Experimento 1\complete\expOneComp\expOneComp\main.asm</FILE><LINE>23</LINE></path_S1_1>
+  <path_S2_0><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Experimento 1\complete\expOneComp\expOneComp\main.asm</FILE><LINE>26</LINE></path_S2_0>
+  <onLed2><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Experimento 1\complete\expOneComp\expOneComp\main.asm</FILE><LINE>31</LINE></onLed2>
+  <offLed2><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Experimento 1\complete\expOneComp\expOneComp\main.asm</FILE><LINE>34</LINE></offLed2>
+ </LABELS>
+</ASSEMBLER_INFO>

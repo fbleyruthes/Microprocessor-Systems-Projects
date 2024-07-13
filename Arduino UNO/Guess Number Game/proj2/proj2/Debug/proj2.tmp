@@ -1,0 +1,53 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\tx_serial.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\Debug\proj2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>proj2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>proj2.map</FILE>
+  <FILE>proj2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <config><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\main.asm</FILE><LINE>12</LINE></config>
+  <tx_string><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\tx_serial.inc</FILE><LINE>44</LINE></tx_string>
+  <tx_string_loop><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\tx_serial.inc</FILE><LINE>49</LINE></tx_string_loop>
+  <tx_string_fim><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\tx_serial.inc</FILE><LINE>60</LINE></tx_string_fim>
+  <tx_R17><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\tx_serial.inc</FILE><LINE>89</LINE></tx_R17>
+  <config_serial><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\tx_serial.inc</FILE><LINE>77</LINE></config_serial>
+  <tx_R17_volta><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\tx_serial.inc</FILE><LINE>91</LINE></tx_R17_volta>
+  <rx_R17><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\tx_serial.inc</FILE><LINE>101</LINE></rx_R17>
+  <rx_R17_volta><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\tx_serial.inc</FILE><LINE>103</LINE></rx_R17_volta>
+  <inicioDoGame><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\main.asm</FILE><LINE>18</LINE></inicioDoGame>
+  <mensagemInicio><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\main.asm</FILE><LINE>84</LINE></mensagemInicio>
+  <esperaInput><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\main.asm</FILE><LINE>22</LINE></esperaInput>
+  <ciclo0a9_loop><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\main.asm</FILE><LINE>24</LINE></ciclo0a9_loop>
+  <ciclo0a9><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\main.asm</FILE><LINE>32</LINE></ciclo0a9>
+  <digitouOmais><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\main.asm</FILE><LINE>42</LINE></digitouOmais>
+  <impR18><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\main.asm</FILE><LINE>38</LINE></impR18>
+  <mensagemJogoComecou><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\main.asm</FILE><LINE>86</LINE></mensagemJogoComecou>
+  <inputUsuario><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\main.asm</FILE><LINE>47</LINE></inputUsuario>
+  <comparacaoComR18><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\main.asm</FILE><LINE>57</LINE></comparacaoComR18>
+  <ganhou><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\main.asm</FILE><LINE>71</LINE></ganhou>
+  <pedeMaior><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\main.asm</FILE><LINE>65</LINE></pedeMaior>
+  <pedeMenor><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\main.asm</FILE><LINE>68</LINE></pedeMenor>
+  <mensagemSeMenor><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\main.asm</FILE><LINE>88</LINE></mensagemSeMenor>
+  <mensagemSeMaior><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\main.asm</FILE><LINE>90</LINE></mensagemSeMaior>
+  <mensagemVenceu><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\main.asm</FILE><LINE>92</LINE></mensagemVenceu>
+  <fim><FILE>C:\Users\Telma Regina Bley\Desktop\Engenharia\2024 -1\Projeto de Sistemas Microprocessados\Projeto 2\Experimento 2\proj2\proj2\main.asm</FILE><LINE>76</LINE></fim>
+ </LABELS>
+</ASSEMBLER_INFO>
